@@ -22,4 +22,4 @@ Esta es una aplicación nativa para iOS diseñada para la gestión eficiente de 
 * **Experiencia Nativa:** Implementación de SF Symbols, feedback visual de estados y soporte para Modo Oscuro/Claro.
 
 ## 👨‍💻 Autor
-**Alfredo Hidalgo** - iOS Developer en formación.
+**Alfredo Hidalgo** - iOS Developer.
